@@ -12,13 +12,13 @@ Manifest File:
 </service>
 ```
 
-<Project> build.gradle.kts
+Project: build.gradle.kts
 
 ```
 id("com.google.gms.google-services") version "4.4.3" apply false
 ````
 
-<App> build.gradle.kts
+App: build.gradle.kts
 
 ```
 plugin:
