@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:739456405118:android:bbe9e74af9d9309a1ad22f",
+        "mobilesdk_app_id": "mobilesdk_app_id",
         "android_client_info": {
           "package_name": "com.example.dilalpurrealtimedatabase"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBxSQetEslfSwYzegMS-VxhxBckxqegMZg"
+          "current_key": "current_key"
         }
       ],
       "services": {
