@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739456405118",
+    "project_id": "dilalpurrealtimedatabase",
+    "storage_bucket": "dilalpurrealtimedatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739456405118:android:bbe9e74af9d9309a1ad22f",
+        "android_client_info": {
+          "package_name": "com.example.dilalpurrealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSQetEslfSwYzegMS-VxhxBckxqegMZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
